@@ -1,4 +1,4 @@
-# Git Tips
+# [Git Tips](https://github.com/Imangazaliev/git-tips)
 
 Часто используемые трюки и советы при работе с Git.
 
